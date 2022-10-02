@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SIS457LAB0103.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FAF8CD96-E34C-41E2-A4C4-3E7D3FB0A11C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SIS457LAB0103.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SIS457LAB0103Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A229C501-A295-463E-9252-F11D74964613}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SIS457LAB0103">
+      <UniqueIdentifier>{B591ED17-32F4-41D3-9366-86C53357C2FE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SIS457LAB0103\SIS457LAB0103.Build.cs">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SIS457LAB0103\SIS457LAB0103.cpp">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB0103\SIS457LAB0103.h">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB0103\SIS457LAB0103GameModeBase.cpp">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB0103\SIS457LAB0103GameModeBase.h">
+      <Filter>Source\SIS457LAB0103</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
